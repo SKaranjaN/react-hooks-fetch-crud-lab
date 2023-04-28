@@ -74,19 +74,8 @@
         "Four",
         "Five"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "id": 9
-    },
-    {
-      "prompt": "One",
-      "answers": [
-        "Two",
-        "Three",
-        "Four",
-        "Five"
-      ],
-      "correctIndex": 2,
-      "id": 10
     }
   ]
 }

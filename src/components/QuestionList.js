@@ -24,7 +24,7 @@ function QuestionList() {
   }
 
   function handleAnswerChange(id, correctIndex) {
-    fetch(`http://localhost:4000/questions/${id}`, {
+    fetch(`http://localhost:3000/questions/${id}`, {
       method: "PATCH",
       headers: {
         "Content-Type": "application/json",
